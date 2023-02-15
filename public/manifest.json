@@ -1,6 +1,6 @@
 {
   "short_name": "Aplicação React",
-  "name": "Templade Dev Samurai de aplicação React",
+  "name": "Projeto Controle",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#F83600",
+  "theme_color": "#7f2982",
   "background_color": "#141518"
 }
